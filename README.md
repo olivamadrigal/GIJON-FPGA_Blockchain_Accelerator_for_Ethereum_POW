@@ -12,6 +12,10 @@ Samira C. Oliva Madrigal
 
 John Purkis
 
+# SHA-3 KECCAK:
+
+Implementation based on NIST.FIPS.202-SHA3-256.pdf
+
 # Video Demos:
 
 Functional Verifications:  https://youtu.be/yE99gxK3xPw
